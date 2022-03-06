@@ -1,7 +1,7 @@
 
 /*   File name: books.js
-     Student name: Parth Patel
-     Student ID: 301207843
+     Student name: Vinit Purohit
+     Student ID: 301170869
      Web page: favourite books 
 */
 // modules required for routing
